@@ -1,0 +1,30 @@
+table, th, td {
+   border: 1px solid black;
+   text-align: center;
+}
+
+table {
+    width: 70%;
+
+th {
+    height: 30px;
+}
+
+h1 {
+	text-align: center;
+	color: #006400;
+	background-color:#999999;
+	border: 1px solid #790000;
+}
+
+#errorMessages{
+	color: #D8000C;
+  background-color: #FFD2D2;
+  border: 1px solid #790000;   
+}
+
+#aptList{
+  text-align: center;
+  color: #6B8E23;
+}
+

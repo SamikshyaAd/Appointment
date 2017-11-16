@@ -1,0 +1,14 @@
+1) Database Information: 
+Database: appointmentdb
+Host: localhost
+Port no: 3306
+username: root
+password: "" (i.e no password)
+
+2) Path of perl: 
+Point the path of per to #!"C:\Strawberry\perl\bin\perl.exe" as in perl script.
+
+3) Web server that I used to host application was Xampp. 
+4) Type localhost/appointment/ in browser to run application.
+
+Note: I used mysql database. 
